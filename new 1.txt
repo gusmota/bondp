@@ -1,0 +1,4 @@
+#Portafolios 
+fname=raw_input('Enter file for stock prices')
+#Comprobacion del archivo
+if len(fname)
